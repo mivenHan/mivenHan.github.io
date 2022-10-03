@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Han Zhao</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>ISPA: Exploiting Intra-SM Parallelism in GPUs via Fine-grained Resource Management</title>
+      <link>https://example.com/publication/2022ispa/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022ispa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs</title>
+      <link>https://example.com/publication/2022dvabatch/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022dvabatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tacker:Tensor-CUDA Core Kernel Fusion for Improving the GPU Utilization while Ensuring QoS</title>
+      <link>https://example.com/publication/2022tacker/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022tacker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enable Simultaneous DNN Services Based on Deterministic Operator Overlap and Precise Latency Prediction</title>
+      <link>https://example.com/publication/2021abacus/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021abacus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks</title>
+      <link>https://example.com/publication/2021plasticine/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021plasticine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services</title>
+      <link>https://example.com/publication/2020ebird2/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020ebird2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODA: Improving Resource Utilization by Slimming and Co-locating DNN and CPU Jobs</title>
+      <link>https://example.com/publication/2020coda/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020coda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth and Locality Aware Task-stealing for Manycore Architectures with Bandwidth-Asymmetric Memory</title>
+      <link>https://example.com/publication/2019bats/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019bats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

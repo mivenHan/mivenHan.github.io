@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Han Zhao</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Urban Big Data Collaborative Computing System</title>
+      <link>https://example.com/post/2019-973/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2019-973/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is a National key research program of China. In this work, I was responsible for building integrated big-data platform. We tried to implement a platform which can schedule between different systems and different user applications. I developed a common interface for collecting runtime information for different system and did some research about scheduling between applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>单节点到多节点并行应用源到源翻译工具项目</title>
+      <link>https://example.com/post/2022-%E5%9B%BD%E9%98%B2%E4%BA%91/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2022-%E5%9B%BD%E9%98%B2%E4%BA%91/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;在研项目。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>源码并行化检测与提示工具项目</title>
+      <link>https://example.com/post/2022-huawei-2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2022-huawei-2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;在研项目。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>云端协同海洋目标识别与分析</title>
+      <link>https://example.com/post/2022-huawei-1/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2022-huawei-1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;国防科技创新特区项目。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>人机物融合的云计算架构与平台</title>
+      <link>https://example.com/post/2021-%E4%BA%BA%E6%9C%BA%E7%89%A9/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2021-%E4%BA%BA%E6%9C%BA%E7%89%A9/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;在人机物融合的环境下，应用需要使用分布在整个互联网、移动互联网和物联网之上的任意数据中心、终端甚至网络上的各种软硬件及数据和服务资源，这些资源呈现出与传统云计算资源不同的诸多新特性：资源访问更加泛在多元，包括多种不同的网络协议，导致资源的接入适配难以统一；资源来源更加广泛多样，不仅来自传统互联网的服务提供商，包括政府部门、通信运营商、传统制造商、乃至普通用户都可以贡献资源，导致资源的可信协同难以保证；资源使用更加随需多变，用户需求不再相对固定，而是要求在不同地点、不同时间、不同场景下即时按需地使用资源，导致资源的服务质量难以保障。传统云计算通常基于资源具备标准接入能力、来源可信、质量可控的假设，在横向上将越来越多的软硬件及数据和服务资源锁定在数据中心内部进行统一管理，无法满足人机物融合环境下分散在云、网、端的异构异质异态资源的管理要求。针对此问题，本课题将自底向上，从资源接入、资源发现、资源管理三个层面入手，开展如下三个方面的研究。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;泛在接入设备识别和跨协议通信技术。针对人机物融合环境下用户、异构终端和物理环境之间连接和交互的泛在性和多元性，研究基于信号时序特征的异构终端识别技术、基于协议特征分析的合作式设备共存和接入技术、基于信道状态和通用物理信号的跨协议通信和感知技术。&lt;/li&gt;
+&lt;li&gt;基于激励机制的云网端资源动态发现。针对人机物融合环境下资源供给和需求的广泛性和多样性，研究面向资源共享和交易的激励机制设计、基于分布式账本的资源可信发现方法，形成效益驱动的资源高效可信共享平台。&lt;/li&gt;
+&lt;li&gt;场景驱动的云网端资源多级协同管理。针对人机物融合环境下资源使用的随需性和多变性，研究场景驱动的异构资源敏感的自动任务调度技术、共享资源的细粒度管理技术、分布式多级资源的按需自适应管理技术，在满足服务质量要求的前提下提高资源利用率。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory Access Hotness Collection in the Linux</title>
+      <link>https://example.com/post/2019-huawei/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2019-huawei/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is a joint research project between SJTU and HUAWEI. In this work, I was responsible for the scheme design and the Linux kernel programming. Overall, we identify the memory access of graph-related applications and improve their performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU Resource Sharing based on QoS-awareness</title>
+      <link>https://example.com/post/2018-alibaba/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2018-alibaba/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is a joint research project between SJTU and ALIBABA. In this work, I was responsible for the data collection for general Cudnn APIs and modeling between the QoS and resource usage. Overall, we guarantee the QoS of latency-sensitive applications and improve the GPU utilization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale heterogeneous processing platform</title>
+      <link>https://example.com/post/2017-huawei/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2017-huawei/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is a joint research project between SJTU and Huawei (Canada). In this work, I was responsible for the system design and analysis. We modiﬁed the communication mechanism between Namenode and Datanode and adopted time slice based method to control the IO share of each user.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redis Enforcement</title>
+      <link>https://example.com/post/2016-huawei/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2016-huawei/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is a joint research preject between SJTU and Huawei (Shanghai). In this work, I was responsible for the security enforcement module. I proposed four schemes to adjust the veriﬁcation between master node and slave nodes for better security without sacriﬁcing performance signiﬁcantly.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

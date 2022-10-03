@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Han Zhao</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>ISPA: Exploiting Intra-SM Parallelism in GPUs via Fine-grained Resource Management</title>
+      <link>https://example.com/publication/2022ispa/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022ispa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services</title>
+      <link>https://example.com/publication/2020ebird2/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020ebird2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth and Locality Aware Task-stealing for Manycore Architectures with Bandwidth-Asymmetric Memory</title>
+      <link>https://example.com/publication/2019bats/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019bats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
