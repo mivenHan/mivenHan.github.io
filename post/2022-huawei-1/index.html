@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: November 8, 2022 --><html lang="en-us" >
+<!-- Last Published: April 7, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -270,7 +270,7 @@
 
   
 
-<meta name="description" content="华为委托研究项目, Principle Investigator, 2022-2023" />
+<meta name="description" content="华为委托研究项目, 项目负责人, 2022-2023" />
 
 
 
@@ -312,7 +312,7 @@
 <meta property="og:site_name" content="Han Zhao" />
 <meta property="og:url" content="https://example.com/post/2022-huawei-1/" />
 <meta property="og:title" content="单节点到多节点并行应用源到源翻译工具项目 | Han Zhao" />
-<meta property="og:description" content="华为委托研究项目, Principle Investigator, 2022-2023" /><meta property="og:image" content="https://example.com/post/2022-huawei-1/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="华为委托研究项目, 项目负责人, 2022-2023" /><meta property="og:image" content="https://example.com/post/2022-huawei-1/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -371,7 +371,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "华为委托研究项目, Principle Investigator, 2022-2023"
+  "description": "华为委托研究项目, 项目负责人, 2022-2023"
 }
 </script>
 
@@ -772,7 +772,26 @@
 
     <div class="article-style">
       <h2 id="overview">Overview</h2>
-<p>在研项目。</p>
+<p>对数据中心常用的众多应用而言，并行化是性能提升的主要手段，现在最常用的并行框架是OpenMP和MPI。但是很多应用在编写时并未考虑到使用并行框架，存在着很大的性能提升空间。当前多机并行编程一般采用MPI，但MPI需要编程人员显式分割数据和排布通信。此外MPI应用的部署与执行环境也有强绑定关系。因此，MPI应用的开发是相对困难的。本课题意在基于现有单节点并行编程接口（OpenMP），通过导语或者模板扩展等低侵入方式，设计一套新编程方法或者接口，并实现编译时自动代码生成，生成代码能够在多节点集群场景下，实现高效并行运行。</p>
+<p>具体项目目标如下：</p>
+<p>(1)	通过识别OpenMP应用程序关键导语，将软件代码自动转换为MPI多节点程序运行：</p>
+<ul>
+<li>将OpenMP单节点应用，自动翻译为MPI多节点应用程序代码；</li>
+<li>可以适当增加新的OpenMP导语，实现MPI程序的有效转换；</li>
+<li>可以识别串行for循环代码段，自动翻译为并行计算的应用程序；</li>
+<li>新增OpenMP导语言，对用户开发习惯影响小。</li>
+</ul>
+<p>(2)	自动进行数据划分，可以均衡地有效地利用多个节点资源进行计算：</p>
+<ul>
+<li>业界通用数据结构：针对规则数据（如普通矩阵）或不规则数据（如稀疏矩阵）可以完成均分，各节点之间计算负载波动不超过5%；</li>
+<li>自定义数据结构：针对规则数据（如普通矩阵），尤其是不规则数据（如稀疏矩阵）可以完成均分，各节点之间计算负载波动不超过5%；</li>
+<li>多节点计算结果：整形计算结果正确，基于模型，单精度计算结果误差不超过10e6，双精度不超过10e-13。</li>
+</ul>
+<p>(3)	运行时库可以根据鲲鹏架构特点结合数据分割方法实现软件性能最优：</p>
+<ul>
+<li>OpenMP自动翻译多节点程序性能达到手动转换性能70%~80%以上；</li>
+<li>通过NPB，lammps，以及minivite、武汉超算客户HPC应用等验证。</li>
+</ul>
 
     </div>
 
@@ -919,7 +938,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu340ab8bf61ee57bbda259b3c7bc6c141_445356_270x270_fill_q75_lanczos_center.jpeg" alt="Han Zhao 赵涵"></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_1742262_270x270_fill_q75_lanczos_center.jpeg" alt="Han Zhao 赵涵"></a>
     
 
     <div class="media-body">

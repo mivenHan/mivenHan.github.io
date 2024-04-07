@@ -5,12 +5,36 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing</title>
+      <link>https://example.com/publication/2024bless/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024bless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing</title>
+      <link>https://example.com/publication/2024faasmem/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024faasmem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo</title>
+      <link>https://example.com/publication/2023combo/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023combo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs</title>
