@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: April 7, 2024 --><html lang="en-us" >
+<!-- Last Published: May 24, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -270,7 +270,7 @@
 
   
 
-<meta name="description" content="While GPUs are becoming more powerful, cloud providers start to allow multiple tenants that often have lightweight workloads to share a GPU. Existing temporal or spatial shar- ing systems struggle to provide efficient and accurate quota assignments for tenants. We observe that the performance of the multi-tenancy system is often underestimated because of the existence of unused GPU “bubbles” and can be enhanced by squeezing the bubbles. Based on this observation, we de- sign Bless, a bubble-less spatial-temporal sharing GPU sys- tem that fine-tunes the GPU resource allocation to improve multi-tenancy performance. Bless leverages precise comput- ing resource management and fine-grained kernel schedul- ing to ensure stringent quota guarantees and reduce latency fairly for tenants with varying GPU quotas. We implement and evaluate Bless with multiple applications and work- loads. Our result shows that Bless achieves 21.1% − 37.3% average latency reduction over the state-of-the-art while guaranteeing the promised quota for all tenants." />
+<meta name="description" content="In serverless computing, an idle container is not recycled directly, in order to mitigate time-consuming cold container startup. These idle containers still occupy the memory, exasperating the memory shortage of today&#39;s data centers. By offloading their cold memory to remote memory pool could potentially resolve this problem. However, existing offloading policies either hurt the Quality of Service (QoS) or are too coarse-grained in serverless computing scenarios. We therefore propose FaaSMem, a dedicated memory offloading mechanism tailored for serverless computing with memory poor architecture. It is proposed based on our finding that the memory of a serverless container allocated in different stages has different usage patterns. Specifically, FaaSMem proposes Page Bucket (Pucket) to segregate the memory pages in different segments, and applies segment-wise offloading policies for them. FaaSMem also proposes a semi-warm period during keep-alive stage, to seek a sweet spot between the offloading effort and the remote access penalty. Experimental results show that FaaSMem reduces the average local memory footprint by 9.9% - 79.8% and improves the container deployment density to 108% - 218%, with negligible 95%-ile latency increase." />
 
 
 
@@ -312,17 +312,17 @@
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Han Zhao" />
 <meta property="og:url" content="https://example.com/publication/2024faasmem/" />
-<meta property="og:title" content="Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing | Han Zhao" />
-<meta property="og:description" content="While GPUs are becoming more powerful, cloud providers start to allow multiple tenants that often have lightweight workloads to share a GPU. Existing temporal or spatial shar- ing systems struggle to provide efficient and accurate quota assignments for tenants. We observe that the performance of the multi-tenancy system is often underestimated because of the existence of unused GPU “bubbles” and can be enhanced by squeezing the bubbles. Based on this observation, we de- sign Bless, a bubble-less spatial-temporal sharing GPU sys- tem that fine-tunes the GPU resource allocation to improve multi-tenancy performance. Bless leverages precise comput- ing resource management and fine-grained kernel schedul- ing to ensure stringent quota guarantees and reduce latency fairly for tenants with varying GPU quotas. We implement and evaluate Bless with multiple applications and work- loads. Our result shows that Bless achieves 21.1% − 37.3% average latency reduction over the state-of-the-art while guaranteeing the promised quota for all tenants." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture | Han Zhao" />
+<meta property="og:description" content="In serverless computing, an idle container is not recycled directly, in order to mitigate time-consuming cold container startup. These idle containers still occupy the memory, exasperating the memory shortage of today&#39;s data centers. By offloading their cold memory to remote memory pool could potentially resolve this problem. However, existing offloading policies either hurt the Quality of Service (QoS) or are too coarse-grained in serverless computing scenarios. We therefore propose FaaSMem, a dedicated memory offloading mechanism tailored for serverless computing with memory poor architecture. It is proposed based on our finding that the memory of a serverless container allocated in different stages has different usage patterns. Specifically, FaaSMem proposes Page Bucket (Pucket) to segregate the memory pages in different segments, and applies segment-wise offloading policies for them. FaaSMem also proposes a semi-warm period during keep-alive stage, to seek a sweet spot between the offloading effort and the remote access penalty. Experimental results show that FaaSMem reduces the average local memory footprint by 9.9% - 79.8% and improves the container deployment density to 108% - 218%, with negligible 95%-ile latency increase." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-02-04T00:00:00&#43;00:00"
+      content="2024-03-04T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2024-02-04T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-03-04T00:00:00&#43;00:00">
   
 
 
@@ -348,14 +348,14 @@
     "@type": "WebPage",
     "@id": "https://example.com/publication/2024faasmem/"
   },
-  "headline": "Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing",
+  "headline": "FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture",
   
-  "datePublished": "2024-02-04T00:00:00Z",
-  "dateModified": "2024-02-04T00:00:00Z",
+  "datePublished": "2024-03-04T00:00:00Z",
+  "dateModified": "2024-03-04T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Shulai Zhang"
+    "name": "Chuhao Xu"
   },
   
   "publisher": {
@@ -366,7 +366,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "While GPUs are becoming more powerful, cloud providers start to allow multiple tenants that often have lightweight workloads to share a GPU. Existing temporal or spatial shar- ing systems struggle to provide efficient and accurate quota assignments for tenants. We observe that the performance of the multi-tenancy system is often underestimated because of the existence of unused GPU “bubbles” and can be enhanced by squeezing the bubbles. Based on this observation, we de- sign Bless, a bubble-less spatial-temporal sharing GPU sys- tem that fine-tunes the GPU resource allocation to improve multi-tenancy performance. Bless leverages precise comput- ing resource management and fine-grained kernel schedul- ing to ensure stringent quota guarantees and reduce latency fairly for tenants with varying GPU quotas. We implement and evaluate Bless with multiple applications and work- loads. Our result shows that Bless achieves 21.1% − 37.3% average latency reduction over the state-of-the-art while guaranteeing the promised quota for all tenants."
+  "description": "In serverless computing, an idle container is not recycled directly, in order to mitigate time-consuming cold container startup. These idle containers still occupy the memory, exasperating the memory shortage of today's data centers. By offloading their cold memory to remote memory pool could potentially resolve this problem. However, existing offloading policies either hurt the Quality of Service (QoS) or are too coarse-grained in serverless computing scenarios. We therefore propose FaaSMem, a dedicated memory offloading mechanism tailored for serverless computing with memory poor architecture. It is proposed based on our finding that the memory of a serverless container allocated in different stages has different usage patterns. Specifically, FaaSMem proposes Page Bucket (Pucket) to segregate the memory pages in different segments, and applies segment-wise offloading policies for them. FaaSMem also proposes a semi-warm period during keep-alive stage, to seek a sweet spot between the offloading effort and the remote access penalty. Experimental results show that FaaSMem reduces the average local memory footprint by 9.9% - 79.8% and improves the container deployment density to 108% - 218%, with negligible 95%-ile latency increase."
 }
 </script>
 
@@ -388,7 +388,7 @@
 
 
   
-  <title>Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing | Han Zhao</title>
+  <title>FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture | Han Zhao</title>
 
   
   
@@ -705,7 +705,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Improving the Multi-Tenancy GPU Performance through Adaptive Bubbleless Spatial-Temporal Sharing</h1>
+  <h1>FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture</h1>
 
   
 
@@ -723,13 +723,16 @@
     
 
   <span >
-      Shulai Zhang</span>, <span >
+      Chuhao Xu</span>, <span >
+      Yiyu Liu</span>, <span >
+      Zijun Li</span>, <span >
       Quan Chen</span>, <span >
-      Weihao Cui</span>, <span >
       Han Zhao</span>, <span >
-      Chunyu Xue</span>, <span >
-      Zhen Zheng</span>, <span >
-      Wei Lin</span>, <span >
+      Deze Zeng</span>, <span >
+      Qian Peng</span>, <span >
+      Xueqi Wu</span>, <span >
+      Haifeng Zhao</span>, <span >
+      Senbo Fu</span>, <span >
       Minyi Guo</span>
   </div>
   
@@ -741,7 +744,7 @@
     
       
     
-    February, 2024
+    March, 2024
   </span>
   
 
@@ -774,7 +777,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">While GPUs are becoming more powerful, cloud providers start to allow multiple tenants that often have lightweight workloads to share a GPU. Existing temporal or spatial shar- ing systems struggle to provide efficient and accurate quota assignments for tenants. We observe that the performance of the multi-tenancy system is often underestimated because of the existence of unused GPU “bubbles” and can be enhanced by squeezing the bubbles. Based on this observation, we de- sign Bless, a bubble-less spatial-temporal sharing GPU sys- tem that fine-tunes the GPU resource allocation to improve multi-tenancy performance. Bless leverages precise comput- ing resource management and fine-grained kernel schedul- ing to ensure stringent quota guarantees and reduce latency fairly for tenants with varying GPU quotas. We implement and evaluate Bless with multiple applications and work- loads. Our result shows that Bless achieves 21.1% − 37.3% average latency reduction over the state-of-the-art while guaranteeing the promised quota for all tenants.</p>
+    <p class="pub-abstract">In serverless computing, an idle container is not recycled directly, in order to mitigate time-consuming cold container startup. These idle containers still occupy the memory, exasperating the memory shortage of today&rsquo;s data centers. By offloading their cold memory to remote memory pool could potentially resolve this problem. However, existing offloading policies either hurt the Quality of Service (QoS) or are too coarse-grained in serverless computing scenarios. We therefore propose FaaSMem, a dedicated memory offloading mechanism tailored for serverless computing with memory poor architecture. It is proposed based on our finding that the memory of a serverless container allocated in different stages has different usage patterns. Specifically, FaaSMem proposes Page Bucket (Pucket) to segregate the memory pages in different segments, and applies segment-wise offloading policies for them. FaaSMem also proposes a semi-warm period during keep-alive stage, to seek a sweet spot between the offloading effort and the remote access penalty. Experimental results show that FaaSMem reduces the average local memory footprint by 9.9% - 79.8% and improves the container deployment density to 108% - 218%, with negligible 95%-ile latency increase.</p>
     
 
     
@@ -802,7 +805,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In *European Conference on Computer Systems *</div>
+          <div class="col-12 col-md-9">In <em>The International Conference on Architectural Support for Programming Languages and Operating Systems</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -837,7 +840,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;text=Improving&#43;the&#43;Multi-Tenancy&#43;GPU&#43;Performance&#43;through&#43;Adaptive&#43;Bubbleless&#43;Spatial-Temporal&#43;Sharing" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;text=FaaSMem%3A&#43;Improving&#43;Memory&#43;Efficiency&#43;of&#43;Serverless&#43;Computing&#43;with&#43;Memory&#43;Pool&#43;Architecture" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -854,7 +857,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;t=Improving&#43;the&#43;Multi-Tenancy&#43;GPU&#43;Performance&#43;through&#43;Adaptive&#43;Bubbleless&#43;Spatial-Temporal&#43;Sharing" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;t=FaaSMem%3A&#43;Improving&#43;Memory&#43;Efficiency&#43;of&#43;Serverless&#43;Computing&#43;with&#43;Memory&#43;Pool&#43;Architecture" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -873,7 +876,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Improving%20the%20Multi-Tenancy%20GPU%20Performance%20through%20Adaptive%20Bubbleless%20Spatial-Temporal%20Sharing&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=FaaSMem%3A%20Improving%20Memory%20Efficiency%20of%20Serverless%20Computing%20with%20Memory%20Pool%20Architecture&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -890,7 +893,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;title=Improving&#43;the&#43;Multi-Tenancy&#43;GPU&#43;Performance&#43;through&#43;Adaptive&#43;Bubbleless&#43;Spatial-Temporal&#43;Sharing" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;title=FaaSMem%3A&#43;Improving&#43;Memory&#43;Efficiency&#43;of&#43;Serverless&#43;Computing&#43;with&#43;Memory&#43;Pool&#43;Architecture" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -907,7 +910,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Improving&#43;the&#43;Multi-Tenancy&#43;GPU&#43;Performance&#43;through&#43;Adaptive&#43;Bubbleless&#43;Spatial-Temporal&#43;Sharing%20https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=FaaSMem%3A&#43;Improving&#43;Memory&#43;Efficiency&#43;of&#43;Serverless&#43;Computing&#43;with&#43;Memory&#43;Pool&#43;Architecture%20https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -924,7 +927,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;title=Improving&#43;the&#43;Multi-Tenancy&#43;GPU&#43;Performance&#43;through&#43;Adaptive&#43;Bubbleless&#43;Spatial-Temporal&#43;Sharing" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2F2024faasmem%2F&amp;title=FaaSMem%3A&#43;Improving&#43;Memory&#43;Efficiency&#43;of&#43;Serverless&#43;Computing&#43;with&#43;Memory&#43;Pool&#43;Architecture" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -943,6 +946,24 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
