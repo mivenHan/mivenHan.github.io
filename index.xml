@@ -42,9 +42,9 @@
     
     <item>
       <title>最小化大模型推理成本：同构及异构模型极致合并部署降本研究</title>
-      <link>https://example.com/post/2024-ccf/</link>
+      <link>https://example.com/post/2025-ccf/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/2024-ccf/</guid>
+      <guid>https://example.com/post/2025-ccf/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;TO BE UPDATED.&lt;/p&gt;
 </description>
@@ -56,6 +56,16 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2025bless/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>大模型训练任务在大显存编程范式的相关技术研究</title>
+      <link>https://example.com/post/2025-%E9%98%BF%E9%87%8C/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2025-%E9%98%BF%E9%87%8C/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;TO BE UPDATED.&lt;/p&gt;
+</description>
     </item>
     
     <item>
