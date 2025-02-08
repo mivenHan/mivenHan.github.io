@@ -5,12 +5,52 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Taming Flexible Job Packing in Deep Learning Training Clusters</title>
+      <link>https://example.com/publication/2025gimbal/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2025gimbal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing</title>
+      <link>https://example.com/publication/2025bless/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2025bless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potamoi: Accelerating neural rendering via a unified streaming architecture</title>
+      <link>https://example.com/publication/2024potamoi/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024potamoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS</title>
+      <link>https://example.com/publication/2024aker/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024aker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting all intra-SM parallelism to maximize the throughput while ensuring QoS</title>
+      <link>https://example.com/publication/2024hato/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024hato/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture</title>

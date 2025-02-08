@@ -5,12 +5,22 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>最小化大模型推理成本：同构及异构模型极致合并部署降本研究</title>
+      <link>https://example.com/post/2024-ccf/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2024-ccf/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;TO BE UPDATED.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>服务器无感知计算的加速器高效共享研究</title>
