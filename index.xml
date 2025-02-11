@@ -41,6 +41,14 @@
     </item>
     
     <item>
+      <title>XPUTIMER: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale</title>
+      <link>https://example.com/publication/2025xputimer/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2025xputimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>最小化大模型推理成本：同构及异构模型极致合并部署降本研究</title>
       <link>https://example.com/post/2025-ccf/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
@@ -63,14 +71,6 @@
       <link>https://example.com/publication/2025bless/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2025bless/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XPUTIMER: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale</title>
-      <link>https://example.com/publication/2025xputimer/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2025xputimer/</guid>
       <description></description>
     </item>
     
