@@ -270,12 +270,12 @@
 
   
 
-<meta name="description" content="We aim to tackle existing problems about deep learning serving on GPUs in the view of the system. GPUs have been widely adopted to serve online deep learning-based services that have stringent QoS(Quality-of-Service) requirements. However, emerging deep learning serving systems often result in poor responsiveness and low throughput of the inferences that damage user experience and increase the number of GPUs required to host an online service. Our investigation shows that the poor batching operation and the lack of data transfer-computation overlap are the root causes of the poor responsiveness and low throughput. To this end, we propose E2bird, a deep learning serving system that is comprised of a GPU-resident memory pool, a multi-granularity inference engine, and an elastic batch scheduler. The memory pool eliminates the unnecessary waiting of the batching operation and enables data transfer-computation overlap. The inference engine enables concurrent execution of different batches, improving the GPU resource utilization. The batch scheduler organizes inferences elastically to guarantee the QoS. Our experimental results on an Nvidia Titan RTX GPU show that E2bird reduces the response latency of inferences by up to 82.4% and improves the throughput by up to 62.8% while guaranteeing the QoS target compared with TensorFlow Serving." />
+<meta name="description" content="Joint consideration of scheduling and adaptive parallelism offers great opportunities for improving the training efficiency of large models in heterogeneous GPU clusters. However, integrating adaptive parallelism into a cluster scheduler expands the cluster scheduling space. The new space is the product of the original scheduling space and the parallelism exploration space of adaptive parallelism (also a product of pipeline, data, and tensor parallelism). The exponentially enlarged scheduling space and ever-changing optimal parallelism plan from adaptive parallelism together result in the contradiction between low overhead and accurate performance data acquisition for efficient cluster scheduling. This paper presents Crius, a training system for efficiently scheduling multiple large models with adaptive parallelism in a heterogeneous cluster. Crius proposes a novel scheduling granularity called Cell. It represents a job with deterministic resources and pipeline stages. The exploration space of Cell is shrunk to the product of only data and tensor parallelism, thus exposing the potential for accurate and low-overhead performance estimation. Crius then accurately estimates Cells and efficiently schedules training jobs. When a Cell is selected as a scheduling choice, its represented job runs with the optimal parallelism plan explored. Experimental results show that Crius reduces job completion time by up to 48.9% and schedules large models with up to 1.49× cluster throughput improvement on the real testbed." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://example.com/publication/2020ebird2/" />
-<link rel="canonical" href="https://example.com/publication/2020ebird2/" />
+<link rel="alternate" hreflang="en-us" href="https://example.com/publication/2025cirus/" />
+<link rel="canonical" href="https://example.com/publication/2025cirus/" />
 
 
 
@@ -311,18 +311,18 @@
   <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Han Zhao" />
-<meta property="og:url" content="https://example.com/publication/2020ebird2/" />
-<meta property="og:title" content="E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services | Han Zhao" />
-<meta property="og:description" content="We aim to tackle existing problems about deep learning serving on GPUs in the view of the system. GPUs have been widely adopted to serve online deep learning-based services that have stringent QoS(Quality-of-Service) requirements. However, emerging deep learning serving systems often result in poor responsiveness and low throughput of the inferences that damage user experience and increase the number of GPUs required to host an online service. Our investigation shows that the poor batching operation and the lack of data transfer-computation overlap are the root causes of the poor responsiveness and low throughput. To this end, we propose E2bird, a deep learning serving system that is comprised of a GPU-resident memory pool, a multi-granularity inference engine, and an elastic batch scheduler. The memory pool eliminates the unnecessary waiting of the batching operation and enables data transfer-computation overlap. The inference engine enables concurrent execution of different batches, improving the GPU resource utilization. The batch scheduler organizes inferences elastically to guarantee the QoS. Our experimental results on an Nvidia Titan RTX GPU show that E2bird reduces the response latency of inferences by up to 82.4% and improves the throughput by up to 62.8% while guaranteeing the QoS target compared with TensorFlow Serving." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://example.com/publication/2025cirus/" />
+<meta property="og:title" content="A Codesign of Scheduling and Parallelization for Large Model Training in Heterogeneous Clusters | Han Zhao" />
+<meta property="og:description" content="Joint consideration of scheduling and adaptive parallelism offers great opportunities for improving the training efficiency of large models in heterogeneous GPU clusters. However, integrating adaptive parallelism into a cluster scheduler expands the cluster scheduling space. The new space is the product of the original scheduling space and the parallelism exploration space of adaptive parallelism (also a product of pipeline, data, and tensor parallelism). The exponentially enlarged scheduling space and ever-changing optimal parallelism plan from adaptive parallelism together result in the contradiction between low overhead and accurate performance data acquisition for efficient cluster scheduling. This paper presents Crius, a training system for efficiently scheduling multiple large models with adaptive parallelism in a heterogeneous cluster. Crius proposes a novel scheduling granularity called Cell. It represents a job with deterministic resources and pipeline stages. The exploration space of Cell is shrunk to the product of only data and tensor parallelism, thus exposing the potential for accurate and low-overhead performance estimation. Crius then accurately estimates Cells and efficiently schedules training jobs. When a Cell is selected as a scheduling choice, its represented job runs with the optimal parallelism plan explored. Experimental results show that Crius reduces job completion time by up to 48.9% and schedules large models with up to 1.49× cluster throughput improvement on the real testbed." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2022-03-01T00:00:00&#43;00:00"
+      content="2025-01-03T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2020-03-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-01-03T00:00:00&#43;00:00">
   
 
 
@@ -346,16 +346,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://example.com/publication/2020ebird2/"
+    "@id": "https://example.com/publication/2025cirus/"
   },
-  "headline": "E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services",
+  "headline": "A Codesign of Scheduling and Parallelization for Large Model Training in Heterogeneous Clusters",
   
-  "datePublished": "2022-03-01T00:00:00Z",
-  "dateModified": "2020-03-01T00:00:00Z",
+  "datePublished": "2025-01-03T00:00:00Z",
+  "dateModified": "2025-01-03T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Weihao Cui"
+    "name": "Chunyu Xue"
   },
   
   "publisher": {
@@ -366,7 +366,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "We aim to tackle existing problems about deep learning serving on GPUs in the view of the system. GPUs have been widely adopted to serve online deep learning-based services that have stringent QoS(Quality-of-Service) requirements. However, emerging deep learning serving systems often result in poor responsiveness and low throughput of the inferences that damage user experience and increase the number of GPUs required to host an online service. Our investigation shows that the poor batching operation and the lack of data transfer-computation overlap are the root causes of the poor responsiveness and low throughput. To this end, we propose E2bird, a deep learning serving system that is comprised of a GPU-resident memory pool, a multi-granularity inference engine, and an elastic batch scheduler. The memory pool eliminates the unnecessary waiting of the batching operation and enables data transfer-computation overlap. The inference engine enables concurrent execution of different batches, improving the GPU resource utilization. The batch scheduler organizes inferences elastically to guarantee the QoS. Our experimental results on an Nvidia Titan RTX GPU show that E2bird reduces the response latency of inferences by up to 82.4% and improves the throughput by up to 62.8% while guaranteeing the QoS target compared with TensorFlow Serving."
+  "description": "Joint consideration of scheduling and adaptive parallelism offers great opportunities for improving the training efficiency of large models in heterogeneous GPU clusters. However, integrating adaptive parallelism into a cluster scheduler expands the cluster scheduling space. The new space is the product of the original scheduling space and the parallelism exploration space of adaptive parallelism (also a product of pipeline, data, and tensor parallelism). The exponentially enlarged scheduling space and ever-changing optimal parallelism plan from adaptive parallelism together result in the contradiction between low overhead and accurate performance data acquisition for efficient cluster scheduling. This paper presents Crius, a training system for efficiently scheduling multiple large models with adaptive parallelism in a heterogeneous cluster. Crius proposes a novel scheduling granularity called Cell. It represents a job with deterministic resources and pipeline stages. The exploration space of Cell is shrunk to the product of only data and tensor parallelism, thus exposing the potential for accurate and low-overhead performance estimation. Crius then accurately estimates Cells and efficiently schedules training jobs. When a Cell is selected as a scheduling choice, its represented job runs with the optimal parallelism plan explored. Experimental results show that Crius reduces job completion time by up to 48.9% and schedules large models with up to 1.49× cluster throughput improvement on the real testbed."
 }
 </script>
 
@@ -388,7 +388,7 @@
 
 
   
-  <title>E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services | Han Zhao</title>
+  <title>A Codesign of Scheduling and Parallelization for Large Model Training in Heterogeneous Clusters | Han Zhao</title>
 
   
   
@@ -408,7 +408,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="87f49d02b51ca35b95de223c0f2c271d" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1838ea45d4e16e2f40f86faa7119b77d" >
 
   
   
@@ -705,7 +705,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services</h1>
+  <h1>A Codesign of Scheduling and Parallelization for Large Model Training in Heterogeneous Clusters</h1>
 
   
 
@@ -723,11 +723,14 @@
     
 
   <span >
+      Chunyu Xue</span>, <span >
       Weihao Cui</span>, <span >
-      Quan Chen</span>, <span >
       Han Zhao</span>, <span >
-      Mengze Wei</span>, <span >
-      Xiaoxin Tang</span>, <span >
+      Quan Chen</span>, <span >
+      Shulai Zhang</span>, <span >
+      Pengyu Yang</span>, <span >
+      Jing Yang</span>, <span >
+      Shaobo Li</span>, <span >
       Minyi Guo</span>
   </div>
   
@@ -739,7 +742,7 @@
     
       
     
-    March, 2020
+    January, 2025
   </span>
   
 
@@ -762,48 +765,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="/publication/2020ebird2/2020ebird2.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2020ebird2/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
 
   
 </div>
@@ -814,7 +775,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We aim to tackle existing problems about deep learning serving on GPUs in the view of the system. GPUs have been widely adopted to serve online deep learning-based services that have stringent QoS(Quality-of-Service) requirements. However, emerging deep learning serving systems often result in poor responsiveness and low throughput of the inferences that damage user experience and increase the number of GPUs required to host an online service. Our investigation shows that the poor batching operation and the lack of data transfer-computation overlap are the root causes of the poor responsiveness and low throughput. To this end, we propose E2bird, a deep learning serving system that is comprised of a GPU-resident memory pool, a multi-granularity inference engine, and an elastic batch scheduler. The memory pool eliminates the unnecessary waiting of the batching operation and enables data transfer-computation overlap. The inference engine enables concurrent execution of different batches, improving the GPU resource utilization. The batch scheduler organizes inferences elastically to guarantee the QoS. Our experimental results on an Nvidia Titan RTX GPU show that E2bird reduces the response latency of inferences by up to 82.4% and improves the throughput by up to 62.8% while guaranteeing the QoS target compared with TensorFlow Serving.</p>
+    <p class="pub-abstract">Joint consideration of scheduling and adaptive parallelism offers great opportunities for improving the training efficiency of large models in heterogeneous GPU clusters. However, integrating adaptive parallelism into a cluster scheduler expands the cluster scheduling space. The new space is the product of the original scheduling space and the parallelism exploration space of adaptive parallelism (also a product of pipeline, data, and tensor parallelism). The exponentially enlarged scheduling space and ever-changing optimal parallelism plan from adaptive parallelism together result in the contradiction between low overhead and accurate performance data acquisition for efficient cluster scheduling. This paper presents Crius, a training system for efficiently scheduling multiple large models with adaptive parallelism in a heterogeneous cluster. Crius proposes a novel scheduling granularity called Cell. It represents a job with deterministic resources and pipeline stages. The exploration space of Cell is shrunk to the product of only data and tensor parallelism, thus exposing the potential for accurate and low-overhead performance estimation. Crius then accurately estimates Cells and efficiently schedules training jobs. When a Cell is selected as a scheduling choice, its represented job runs with the optimal parallelism plan explored. Experimental results show that Crius reduces job completion time by up to 48.9% and schedules large models with up to 1.49× cluster throughput improvement on the real testbed.</p>
     
 
     
@@ -842,7 +803,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS</em></div>
+          <div class="col-12 col-md-9">In <em>Arxiv</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -877,7 +838,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F&amp;text=E2bird%3A&#43;Enhanced&#43;Elastic&#43;Batch&#43;for&#43;Improving&#43;Responsiveness&#43;and&#43;Throughput&#43;of&#43;Deep&#43;Learning&#43;Services" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F&amp;text=A&#43;Codesign&#43;of&#43;Scheduling&#43;and&#43;Parallelization&#43;for&#43;Large&#43;Model&#43;Training&#43;in&#43;Heterogeneous&#43;Clusters" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -894,7 +855,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F&amp;t=E2bird%3A&#43;Enhanced&#43;Elastic&#43;Batch&#43;for&#43;Improving&#43;Responsiveness&#43;and&#43;Throughput&#43;of&#43;Deep&#43;Learning&#43;Services" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F&amp;t=A&#43;Codesign&#43;of&#43;Scheduling&#43;and&#43;Parallelization&#43;for&#43;Large&#43;Model&#43;Training&#43;in&#43;Heterogeneous&#43;Clusters" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -913,7 +874,7 @@
         
       
       <li>
-        <a href="mailto:?subject=E2bird%3A%20Enhanced%20Elastic%20Batch%20for%20Improving%20Responsiveness%20and%20Throughput%20of%20Deep%20Learning%20Services&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=A%20Codesign%20of%20Scheduling%20and%20Parallelization%20for%20Large%20Model%20Training%20in%20Heterogeneous%20Clusters&amp;body=https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -930,7 +891,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F&amp;title=E2bird%3A&#43;Enhanced&#43;Elastic&#43;Batch&#43;for&#43;Improving&#43;Responsiveness&#43;and&#43;Throughput&#43;of&#43;Deep&#43;Learning&#43;Services" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F&amp;title=A&#43;Codesign&#43;of&#43;Scheduling&#43;and&#43;Parallelization&#43;for&#43;Large&#43;Model&#43;Training&#43;in&#43;Heterogeneous&#43;Clusters" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -947,7 +908,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=E2bird%3A&#43;Enhanced&#43;Elastic&#43;Batch&#43;for&#43;Improving&#43;Responsiveness&#43;and&#43;Throughput&#43;of&#43;Deep&#43;Learning&#43;Services%20https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=A&#43;Codesign&#43;of&#43;Scheduling&#43;and&#43;Parallelization&#43;for&#43;Large&#43;Model&#43;Training&#43;in&#43;Heterogeneous&#43;Clusters%20https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -964,7 +925,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2F2020ebird2%2F&amp;title=E2bird%3A&#43;Enhanced&#43;Elastic&#43;Batch&#43;for&#43;Improving&#43;Responsiveness&#43;and&#43;Throughput&#43;of&#43;Deep&#43;Learning&#43;Services" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpublication%2F2025cirus%2F&amp;title=A&#43;Codesign&#43;of&#43;Scheduling&#43;and&#43;Parallelization&#43;for&#43;Large&#43;Model&#43;Training&#43;in&#43;Heterogeneous&#43;Clusters" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -983,6 +944,24 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
