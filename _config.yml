@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "赵涵"
   location         : "Shanghai"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : # "Shanghai Jiao Tong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ubjFeQkAAAAJ&hl=en"
   email            : "zhao-han@cs.sjtu.edu.cn; zhaohan_miven@sjtu.edu.cn"
