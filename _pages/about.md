@@ -27,13 +27,13 @@ My previous research focused on:
 - resource management in datacenters
 - DNN inference system design
 
-Currently, my research focused on: 
+Currently, my research focus on: 
 - cloud computing and deep learning systems
 - LLM inference and training systems
 - serverless architectures for diverse applications
 - advanced resource management in datacenters
 
-I am now looking for perspective Ph.D students and Master Students (Enrollment Date: 2025.09 & 2026.09). If you are interested in above areas, we should talk.
+**I am now looking for perspective Ph.D students and Master Students (Enrollment Date: 2026.09). If you are interested in above areas, we should talk.**
 
 <span class='anchor' id='-xl'></span>
 
