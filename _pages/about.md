@@ -89,10 +89,10 @@ Currently, my research focus on:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- 2025 **CCF杰出论文奖** `CCF Distinguished Paper`
-- 2025 **微软铸星学者** `MSRA StarTrack Scholar`
-- 2023 **CCF体系结构优博** `CCF Outstanding Doctoral Dissertation Award in Computer Architecture`
-- 2021 **SC2021最佳实现提名奖** `SC2021 Finalist`
+- 2025 **CCF Distinguished Paper** `CCF杰出论文奖`
+- 2025 **MSRA StarTrack Scholar** `微软铸星学者`
+- 2023 **CCF Outstanding Doctoral Dissertation Award in Computer Architecture** `CCF体系结构优博`
+- 2021 **SC2021 Finalist** `SC2021最佳实现提名奖`
 
 <span class='anchor' id='-kyxm'></span>
 
