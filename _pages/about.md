@@ -54,11 +54,10 @@ Currently, my research focus on:
 
 # 📝 Publications
 
-- \* Denotes the `Corresponding author.`
-- ^ Denotes the `Equal contribution.`
-
 ### Preprint
 
+- \* Denotes the `Corresponding author.`
+- ^ Denotes the `Equal contribution.`
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Weihao Cui, Yukang Chen, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
