@@ -33,7 +33,7 @@ Currently, my research focus on:
 - Serverless architectures for diverse applications
 - Advanced resource management in datacenters
 
-**I am now looking for perspective Ph.D students and Master Students (Enrollment Date: 2026.09). If you are interested in above areas, we should talk.**
+**I am now looking for perspective Undergraduate Students and Master Students (Enrollment Date: 2026.09). If you are interested in above areas, we should talk.**
 
 <span class='anchor' id='-xl'></span>
 
