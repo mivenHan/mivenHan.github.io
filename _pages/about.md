@@ -55,30 +55,30 @@ Currently, my research focus on:
 # 📝 发表论文
 
 - \* Denotes the `Corresponding author.`
-- \^ Denotes the `Equal contribution.`
+- ^ Denotes the `Equal contribution.`
 
-- Han Zhao, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
-- Pengyu Yang, Weihao Cui, Chunyu Xue, Han Zhao, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
-- Weihao Cui, Ji Zhang, Han Zhao, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
-- Weihao Cui, Ziyi Xu, Han Zhao, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
-- Weihao Cui, Yukang Chen, Han Zhao, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
-- Chunyu Xue, Weihao Cui, Han Zhao, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
-- Yifu He, Han Zhao, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
+- `Han Zhao`, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
+- Pengyu Yang, Weihao Cui, Chunyu Xue, `Han Zhao`, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
+- Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
+- Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
+- Weihao Cui, Yukang Chen, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
+- Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
+- Yifu He, `Han Zhao`, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
 - Shulai Zhang, Quan Chen, Weihao Cui, `Han Zhao`, Chunyu Xue, Zhen Zheng, Wei Lin, Minyi Guo. Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing. **Eurosys2025 (CCF-A)** 
-- Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, Han Zhao, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu. Potamoi: Accelerating neural rendering via a unified streaming architecture. **TACO2024 (CCF-A)**
-- Han Zhao, Junxiao Deng, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **TC2024 (CCF-A)**
-- Han Zhao, Junxiao Deng, Weihao Cui, Deze Zeng, Jing Yang, Minyi Guo. Exploiting all intra-SM parallelism to maximize the throughput while ensuring QoS. **Chinese Science Information Science 2024 (CCF-A)**
-- Chuhao Xu, Yiyu Liu, Zijun Li, Quan Chen, Han Zhao, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo. FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture. **In ASPLOS2024 (CCF-A)**
-- Binghao Chen, Han Zhao, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen, Zijun Li, Minyi Guo. Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo. **SoCC2023 (CCF-B)**
-- Han Zhao, Weihao Cui, Quan Chen, Jingwen Leng, Deze Zeng, Minyi Guo. Improving Cluster Utilization Through Adaptive Resource Management for Deep Neural Network and CPU Jobs Colocation. **TC2023 (CCF-A)**
-- Han Zhao, Weihao Cui, Quan Chen, Minyi Guo. ISPA: Exploiting Intra-SM Parallelism in GPUs via Fine-grained Resource Management. **TC2022 (CCF-A)**
-- Weihao Cui, Han Zhao, Quan Chen, Hao Wei, Zirui Li, Deze Zeng, Chao Li, Minyi Guo. DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs. **ATC2022 (CCF-A)**
-- Han Zhao, Weihao Cui, Quan Chen, Youtao Zhang, Yanchao Lu, Chao Li, Jingwen Leng, Minyi Guo. Tacker:Tensor-CUDA Core Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **HPCA2022 (CCF-A)**
-- Weihao Cui, Han Zhao, Quan Chen, Ningxin Zheng, Jingwen Leng, Jieru Zhao, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo. Enable Simultaneous DNN Services Based on Deterministic Operator Overlap and Precise Latency Prediction. **SC2021 (CCF-A)**
-- Han Zhao, Weihao Cui, Quan Chen, Jieru Zhao, Jingwen Leng, Minyi Guo. Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks. **ICCD2021 (CCF-B)**
-- Weihao Cui, Quan Chen, Han Zhao, Mengze Wei, Xiaoxin Tang, Minyi Guo. E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services. **TPDS2020 (CCF-A)**
-- Han Zhao, Weihao Cui, Quan Chen, Jingwen Leng, Kai Yu, Deze Zeng, Chao Li, Minyi Guo. CODA: Improving Resource Utilization by Slimming and Co-locating DNN and CPU Jobs. **ICDCS2020 (CCF-B)**
-- Han Zhao, Quan Chen, Yuxian Qiu, Ming Wu, Yao Shen, Jingwen Leng, Chao Li, Minyi Guo. Bandwidth and Locality Aware Task-stealing for Manycore Architectures with Bandwidth-Asymmetric Memory. **TACO2019 (CCF-A)**
+- Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, `Han Zhao`, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu. Potamoi: Accelerating neural rendering via a unified streaming architecture. **TACO2024 (CCF-A)**
+- `Han Zhao`, Junxiao Deng, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **TC2024 (CCF-A)**
+- `Han Zhao`, Junxiao Deng, Weihao Cui, Deze Zeng, Jing Yang, Minyi Guo. Exploiting all intra-SM parallelism to maximize the throughput while ensuring QoS. **Chinese Science Information Science 2024 (CCF-A)**
+- Chuhao Xu, Yiyu Liu, Zijun Li, Quan Chen, `Han Zhao`, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo. FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture. **In ASPLOS2024 (CCF-A)**
+- Binghao Chen, `Han Zhao*`, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen, Zijun Li, Minyi Guo. Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo. **SoCC2023 (CCF-B)**
+- `Han Zhao`, Weihao Cui, Quan Chen, Jingwen Leng, Deze Zeng, Minyi Guo. Improving Cluster Utilization Through Adaptive Resource Management for Deep Neural Network and CPU Jobs Colocation. **TC2023 (CCF-A)**
+- `Han Zhao`, Weihao Cui, Quan Chen, Minyi Guo. ISPA: Exploiting Intra-SM Parallelism in GPUs via Fine-grained Resource Management. **TC2022 (CCF-A)**
+- Weihao Cui, `Han Zhao`, Quan Chen, Hao Wei, Zirui Li, Deze Zeng, Chao Li, Minyi Guo. DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs. **ATC2022 (CCF-A)**
+- `Han Zhao`, Weihao Cui, Quan Chen, Youtao Zhang, Yanchao Lu, Chao Li, Jingwen Leng, Minyi Guo. Tacker:Tensor-CUDA Core Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **HPCA2022 (CCF-A)**
+- Weihao Cui, `Han Zhao`, Quan Chen, Ningxin Zheng, Jingwen Leng, Jieru Zhao, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo. Enable Simultaneous DNN Services Based on Deterministic Operator Overlap and Precise Latency Prediction. **SC2021 (CCF-A)**
+- `Han Zhao`, Weihao Cui, Quan Chen, Jieru Zhao, Jingwen Leng, Minyi Guo. Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks. **ICCD2021 (CCF-B)**
+- Weihao Cui, Quan Chen, `Han Zhao`, Mengze Wei, Xiaoxin Tang, Minyi Guo. E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services. **TPDS2020 (CCF-A)**
+- `Han Zhao`, Weihao Cui, Quan Chen, Jingwen Leng, Kai Yu, Deze Zeng, Chao Li, Minyi Guo. CODA: Improving Resource Utilization by Slimming and Co-locating DNN and CPU Jobs. **ICDCS2020 (CCF-B)**
+- `Han Zhao`, Quan Chen, Yuxian Qiu, Ming Wu, Yao Shen, Jingwen Leng, Chao Li, Minyi Guo. Bandwidth and Locality Aware Task-stealing for Manycore Architectures with Bandwidth-Asymmetric Memory. **TACO2019 (CCF-A)**
 
 <span class='anchor' id='-ryjx'></span>
 
