@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "胡熠娜"
+title                    : "Han Zhao 赵涵"
 description              : #"生态系统服务"
-repository               : "shnu-yina/shnu-yina.github.io"
+repository               : "mivenHan/mivenhan.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "胡熠娜"
+  name             : "Han Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "上海师范大学"
-  location         : "上海"
+  bio              : "Shanghai Jiao Tong University"
+  location         : "Shanghai"
   employer         : # ""
   pubmed           : 
-  googlescholar    : # ""
-  email            : "huyina@shnu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yina-Hu-2?ev=hdr_xprf&_sg=eTFi918JTRkh5XcNyUJMCepdwP9hYiJnO9kHQbDr9sddf_3WHGcKOJGNaUC2eWxhhQUbBC0micNSBGNW2qHSNP9g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
+  googlescholar    : "https://scholar.google.com/citations?user=ubjFeQkAAAAJ&hl=en"
+  email            : "zhao-han@cs.sjtu.edu.cn; zhaohan_miven@sjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Han-Zhao-2122308391"
   uri              : 
   bitbucket        :
   codepen          :
