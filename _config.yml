@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Han Zhao "
-  employer         : "赵涵"
+  name             : "Han Zhao \n 赵涵"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai"
+  employer         : # ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ubjFeQkAAAAJ&hl=en"
   email            : "zhao-han@cs.sjtu.edu.cn; zhaohan_miven@sjtu.edu.cn"
