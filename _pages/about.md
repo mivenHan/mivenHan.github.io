@@ -66,7 +66,7 @@ Currently, my research focus on:
 
 ### Published
 
-- Shulai Zhang, Ao Xu, Quan Chen, Han Zhao, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception . **ATC2025 (CCF-A)** 
+- Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception . **ATC2025 (CCF-A)** 
 - `Han Zhao`, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
 - Pengyu Yang, Weihao Cui, Chunyu Xue, `Han Zhao`, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
 - Yifu He, `Han Zhao`, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
@@ -101,13 +101,13 @@ Currently, my research focus on:
 ### National Project
 
 - 2024-2026, **NSFC YOUNG PROGRAM**, `Principal Investigator`
-  - 2024-2026，**国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
-- 2025-2027, **National Key Research and Development Program of China**, `Actual Worker in SJTU`
-  - 2025-2027, **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
+  - **国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
+- **National Key Research and Development Program of China**, `Actual Worker in SJTU`
+  - **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
 - 2024-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
-  - 2024-2026, **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
+  - **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
 - 2023-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
-  - 2023-2026, **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
+  - **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
 
 ### Industrial Project
 
