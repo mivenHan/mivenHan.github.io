@@ -52,17 +52,22 @@ Currently, my research focus on:
 
 <span class='anchor' id='-fblw'></span>
 
-# 📝 发表论文
+# 📝 Publications
 
 - \* Denotes the `Corresponding author.`
 - ^ Denotes the `Equal contribution.`
 
-- `Han Zhao`, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
-- Pengyu Yang, Weihao Cui, Chunyu Xue, `Han Zhao`, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
+### Preprint
+
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Weihao Cui, Yukang Chen, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
 - Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
+
+### Published
+
+- `Han Zhao`, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
+- Pengyu Yang, Weihao Cui, Chunyu Xue, `Han Zhao`, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
 - Yifu He, `Han Zhao`, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
 - Shulai Zhang, Quan Chen, Weihao Cui, `Han Zhao`, Chunyu Xue, Zhen Zheng, Wei Lin, Minyi Guo. Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing. **Eurosys2025 (CCF-A)** 
 - Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, `Han Zhao`, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu. Potamoi: Accelerating neural rendering via a unified streaming architecture. **TACO2024 (CCF-A)**
