@@ -61,7 +61,7 @@ Currently, my research focus on:
 - Chuhao Xu, Zijun Li, Quan Chen, `Han Zhao`, Minyi Guo. LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference. **(On Arxiv)** 
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
-- Weihao Cui, Yukang Chen, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
+- Weihao Cui^, Yukang Chen^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
 - Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
 
 ### Published
@@ -72,7 +72,7 @@ Currently, my research focus on:
 - Yifu He, `Han Zhao`, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
 - Shulai Zhang, Quan Chen, Weihao Cui, `Han Zhao`, Chunyu Xue, Zhen Zheng, Wei Lin, Minyi Guo. Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing. **Eurosys2025 (CCF-A)** 
 - Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, `Han Zhao`, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu. Potamoi: Accelerating neural rendering via a unified streaming architecture. **TACO2024 (CCF-A)**
-- `Han Zhao`, Junxiao Deng, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **TC2024 (CCF-A)**
+- `Han Zhao^`, Junxiao Deng^, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **TC2024 (CCF-A)**
 - `Han Zhao`, Junxiao Deng, Weihao Cui, Deze Zeng, Jing Yang, Minyi Guo. Exploiting all intra-SM parallelism to maximize the throughput while ensuring QoS. **Chinese Science Information Science 2024 (CCF-A)**
 - Chuhao Xu, Yiyu Liu, Zijun Li, Quan Chen, `Han Zhao`, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo. FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture. **In ASPLOS2024 (CCF-A)**
 - Binghao Chen, `Han Zhao*`, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen, Zijun Li, Minyi Guo. Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo. **SoCC2023 (CCF-B)**
@@ -100,10 +100,14 @@ Currently, my research focus on:
 
 ### National Project
 
-- 2024-2026，**国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
-- 2025-2027, **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
-- 2024-2026, **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
-- 2023-2026, **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
+- 2024-2026, **NSFC YOUNG PROGRAM**, `Principal Investigator`
+  - 2024-2026，**国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
+- 2025-2027, **National Key Research and Development Program of China**, `Actual Worker in SJTU`
+  - 2025-2027, **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
+- 2024-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
+  - 2024-2026, **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
+- 2023-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
+  - 2023-2026, **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
 
 ### Industrial Project
 
