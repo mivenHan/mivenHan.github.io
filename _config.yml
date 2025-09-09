@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Han Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "赵涵"
   location         : "Shanghai"
-  employer         : # ""
+  employer         : "Shanghai Jiao Tong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ubjFeQkAAAAJ&hl=en"
   email            : "zhao-han@cs.sjtu.edu.cn; zhaohan_miven@sjtu.edu.cn"
