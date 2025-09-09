@@ -100,14 +100,10 @@ Currently, my research focus on:
 
 ### National Project
 
-- 2024-2026, **NSFC YOUNG PROGRAM**, `Principal Investigator`
-  - **国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
-- **National Key Research and Development Program of China**, `Actual Worker in SJTU`
-  - **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
-- 2024-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
-  - **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
-- 2023-2026, **National Key Research and Development Program of China**, `Principal Investigator in SJTU`
-  - **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
+- 2024-2026, **国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
+- 2025-2027, **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
+- 2024-2026, **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
+- 2023-2026, **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
 
 ### Industrial Project
 
@@ -137,8 +133,13 @@ Currently, my research focus on:
 # 🧑‍🎓 Students
 
 ### Non-Graduated
-- `我非常开心能与这些优秀的学生共事💖💖`
-- Ao Xu
+- `I am so glad to work with these outstanding students.💖💖`
+- 2024级博士 邓俊骁
+- 2024级硕士 徐奥，陈煜康
+- 2025级博士 张翔
+- 2025级硕士 王皓冬，张豪
+- 2023级本科生 罗锦彬
 
 ### Graduated
-- 2020
+- 2021级硕士 陈炳昊（英伟达）
+- 2022级硕士 杨鹏宇（字节跳动）
