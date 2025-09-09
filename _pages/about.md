@@ -38,9 +38,9 @@ I am now looking for perspective Ph.D students and Master Students (Enrollment D
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2019.09 – 2022.06*, Shanghai Jiao Tong University  Doctor (Advisor: Prof. Quan Chen & Prof. Minyi Guo)
-- *2016.09 – 2019.03*, Shanghai Jiao Tong University  Master (Advisor: Prof. Minyi Guo & Prof. Quan Chen)
-- *2012.09 – 2016.06*, Huazhong University of Science and Technology         Bachelor
+- *2019.09 – 2022.06*, Shanghai Jiao Tong University        `Doctor`
+- *2016.09 – 2019.03*, Shanghai Jiao Tong University        `Master`
+- *2012.09 – 2016.06*, Huazhong University of Science and Technology         `Bachelor`
 
 <!-- <span class='anchor' id='-xsjz'></span>
 
