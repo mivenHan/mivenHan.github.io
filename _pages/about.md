@@ -37,7 +37,7 @@ Currently, my research focus on:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education
 - *2019.09 – 2022.06*, Shanghai Jiao Tong University        `Doctor`
 - *2016.09 – 2019.03*, Shanghai Jiao Tong University        `Master`
 - *2012.09 – 2016.06*, Huazhong University of Science and Technology         `Bachelor`
@@ -86,7 +86,7 @@ Currently, my research focus on:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Awards
 - 2025 **CCF杰出论文奖** `CCF Distinguished Paper`
 - 2025 **微软铸星学者** `MSRA StarTrack Scholar`
 - 2023 **CCF体系结构优博** `CCF Outstanding Doctoral Dissertation Award in Computer Architecture`
@@ -94,7 +94,21 @@ Currently, my research focus on:
 
 <span class='anchor' id='-kyxm'></span>
 
-# 🏛️ 科研项目
+# 🏛️ Project
+
+### National Project
+
+- 2024-2026，**国家自然科学基金青年项目**，服务器无感知计算的加速器高效共享研究（`项目负责人`）
+- 2025-2027, **国家重点研发计划**, 针对异构计算平台的资源实时隔离与高效调度系统（`实际项目实施`）
+- 2024-2026, **国家重点研发计划**, 面向新一代国产超算系统的统一并行编程模型与并行编译（`子课题负责人`）
+- 2023-2026, **国家重点研发计划**, 新型数据流异构处理器架构及计算系统（`子课题负责人`）
+
+### Industrial Project
+
+- 2025-2026, **CCF-蚂蚁绿色基金**, 最小化大模型推理成本：同构及异构模型极致合并部署降本研究（`项目负责人`）
+- 2024-2025, **HW云联合实验室**, 大模型推理服务与微调任务的高效混部关键技术研究技术（`项目负责人`）
+- 2023-2024, **HW委托研究项目**, 源码并行化检测与提示工具项目（`联合项目负责人`）
+- 2023-2024, **HW委托研究项目**, 单节点到多节点并行应用源到源翻译工具项目（`联合项目负责人`）
 
 <!-- - 2023-2025，**国家自然科学基金青年项目**，空间流动视角下水质净化服务惠益测度及其对景观格局演变的响应：以太湖流域为例（`主持`）
 - 2023-2027，**科技部重点研发计划子课题**（2023YFF1304700），干旱区城市及其周边区域生态空间需水量精细化估算（`主持`）
@@ -106,7 +120,7 @@ Currently, my research focus on:
 
 <span class='anchor' id='-cdkc'></span>
 
-# 📚 承担课程
+# 📚 Courses
 
 <!-- - 2023.1-至今，**景观与区域生态学**（3学分），本科生课程
 - 2022.1-至今，**地理信息系统原理**（3学分），本科生课程
@@ -114,7 +128,11 @@ Currently, my research focus on:
 
 <span class='anchor' id='-xszd'></span>
 
-# 🧑‍🎓 学生指导
+# 🧑‍🎓 Students
 
+### Non-Graduated
 - `我非常开心能与这些优秀的学生共事💖💖`
 - Ao Xu
+
+### Graduated
+- 2020
