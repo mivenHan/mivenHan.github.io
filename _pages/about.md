@@ -96,7 +96,7 @@ Currently, my research focus on:
 
 <span class='anchor' id='-kyxm'></span>
 
-# 🏛️ Project
+# 🏛️ Projects
 
 ### National Project
 
@@ -123,6 +123,9 @@ Currently, my research focus on:
 <span class='anchor' id='-cdkc'></span>
 
 # 📚 Courses
+
+- 2023.1 - Now, **Intelligent Computing Systems** `智能计算系统`
+- 2023.1 - Now, **Parallel Computing and Parallel Algorithms** `并行计算与并行算法`
 
 <!-- - 2023.1-至今，**景观与区域生态学**（3学分），本科生课程
 - 2022.1-至今，**地理信息系统原理**（3学分），本科生课程

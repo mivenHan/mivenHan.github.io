@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/shnu-yina.github.io/#about-me"
+  - title: "About Me"
+    url: "/mivenhan.github.io/#about-me"
 
-  - title: "学历"
-    url: "/shnu-yina.github.io/#-xl"
+  - title: "Education"
+    url: "/mivenhan.github.io/#-xl"
 
-  - title: "学术兼职"
-    url: "/shnu-yina.github.io/#-xsjz"
+  - title: "Publications"
+    url: "/mivenhan.github.io/#-fblw"
 
-  - title: "发表论文"
-    url: "/shnu-yina.github.io/#-fblw"
+  - title: "Awards"
+    url: "/mivenhan.github.io/#-ryjx"
 
-  - title: "荣誉奖项"
-    url: "/shnu-yina.github.io/#-ryjx"
+  - title: "Projects"
+    url: "/mivenhan.github.io/#-kyxm"
 
-  - title: "科研项目"
-    url: "/shnu-yina.github.io/#-kyxm"
+  - title: "Courses"
+    url: "/mivenhan.github.io/#-cdkc"
 
-  - title: "承担课程"
-    url: "/shnu-yina.github.io/#-cdkc"
+  # - title: "Services"
+  #   url: "/mivenhan.github.io/#-xsjz"
 
-  - title: "学生指导"
-    url: "/shnu-yina.github.io/#-xszd"
+  - title: "Students"
+    url: "/mivenhan.github.io/#-xszd"
