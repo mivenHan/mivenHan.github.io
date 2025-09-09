@@ -23,15 +23,15 @@ redirect_from:
 I am an assistant professor at <a href="https://www.cs.sjtu.edu.cn/" target="_blank">Computer Science and Engineering Department</a> in <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a>. I received the Master and Ph.D. degrees from Shanghai Jiao Tong University under the supervision of <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://cs.sjtu.edu.cn/~guo-my/" target="_blank">`Prof. Minyi Guo`</a>. For now, I still work closely with <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://raphael-hao.top/" target="_blank">`Assist Prof. Weihao Cui`</a>.
 
 My previous research focused on:
-- task scheduling across various architectures
-- resource management in datacenters
+- Task scheduling across various architectures
+- Resource management in datacenters
 - DNN inference system design
 
 Currently, my research focus on: 
-- cloud computing and deep learning systems
+- Cloud computing and deep learning systems
 - LLM inference and training systems
-- serverless architectures for diverse applications
-- advanced resource management in datacenters
+- Serverless architectures for diverse applications
+- Advanced resource management in datacenters
 
 **I am now looking for perspective Ph.D students and Master Students (Enrollment Date: 2026.09). If you are interested in above areas, we should talk.**
 
