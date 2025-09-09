@@ -55,26 +55,30 @@ Currently, my research focus on:
 # 📝 发表论文
 
 - \* Denotes the `Corresponding author.`
+- \^ Denotes the `Equal contribution.`
 
-
-
-- Xue, F., `Hu, Y.*`, Hu, T., Zhou, R., Ma, Q., Fang, X. Urbanization intensified the trade-off between food security and water quality security in the Yangtze River Delta. **Earth’s Future**, 13, e2025EF006382.
-- Cai, L., Wang, C., Xue, F., Xiao, L., `Hu, Y.*`. Integrating ecological security pattern and sustainable development goals: A multi-scale framework for arid cities. **Land Degradation & Development**, 2025, 0: 1-14.
-- `Hu, Y.`, Connor, D. S., Stuhlmacher, M., Peng J.*, Turner, B. L. More urbanization, more polarization: Evidence from two decades of urban expansion in China. **npj Urban Sustainability**, 2024, 4, 33.
-- `Hu, Y.*`., Zhang, J., Yang, Y., Hu, T., Wang, S. Integrating supply and beneficiaries into assessing the benefit of water purification service: A spatial flow perspective. **Landscape Ecology**, 2024, 39, 200.
-- Xue, F., Yang, Y., `Hu, Y.*`. Integrating supply and benefits of ecosystem services into ecological security pattern: A spatial flow perspective. **Ecological Indicators**, 2024, 166, 112455. 
-- He, T., Zhou, R., Ma, Q., Li, C., Liu, D., Fang, X., `Hu, Y.`, Gao, J. Quantifying the effects of urban development intensity on the surface urban heat island across building climate zones. **Applied Geography**, 2023, 158: 103052.
-- Peng, J., Hu, T., Qiu, S., `Hu, Y.`, Dong, J., Lin, Y. Balancing the effects of forest conservation and restoration on South China karst greening. **Earth's Future**, 2023, 11, e2023EF003487.
-- Hu, T., Dong, J., `Hu, Y.`, Qiu, S., Yang, Z., Zhao, Y., Cheng, X., Peng, J. Stage response of vegetation dynamics to urbanization in megacities: A case study of Changsha City, China. **Science of the Total Environment**, 2023, 858: 159659.
-- Hu, T., `Hu, Y.`, Dong, J., Qiu, S., Peng, J. Integrating Sentinel-1/2 Data and Machine Learning to Map Cotton Fields in Northern Xinjiang, China. **Remote Sensing**, 2022, 13(23): 4819.
-- Stuhlmacher, M., Georgescu, M., Turner, B. L., `Hu, Y.`, Goldblatt, R., Gupta, S., Frazier, A. E., Kim, Y., Balling, R. C., Clinton, N. Are global cities homogenizing? An assessment of urban form and heat island implications. **Cities**, 2022, 126: 103705.
-- Wang, M., Peng, J., `Hu, Y.`, Du, Y., Qiu, S., Zhao, M. Scale consistency for investigating urbanization level, vegetation coverage, and their correlation. **Urban Forestry & Urban Greening**, 2021, 59: 126998.
-- Peng, J., `Hu, Y.`, Liu, Y., Dong, J., Mao, Q, Wu, J. Linking spatial differentiation with sustainability management: Academic contributions and research directions of physical geography in China. **Progress of Physical Geography**, 2020, 44(1): 14-30
-- Peng, J., Liu, Q., Blaschke, T., Zhang, Z., Liu, Y., `Hu, Y.`, Wang, M., Xu, Z., Wu, J. Integrating land development size, pattern, and density to identify urban-rural fringe in a metropolitan region. **Landscape Ecology**, 2020, 35(9): 2045-2059.
-- Peng, J., Lin, H., Chen, Y., Blaschke, T., Luo, L., Xu, Z., `Hu, Y.`, Zhao, M., Wu, J. Spatiotemporal evolution of urban agglomerations in China during 2000-2012: A nighttime light approach. **Landscape Ecology**, 2020, 35(2): 421-434.
-- Peng, J., Hu, X., Qiu, S., `Hu, Y.`, Meersmans, J., Liu, Y. Multifunctional landscapes identification and associated development zoning in mountainous area. **Science of the Total Environment**, 2019, 660, 765-775.
-- `Hu, Y.`, Peng, J., Liu, Y., Tian, L. Integrating ecosystem services trade-offs with paddy land-to-dry land decisions: A scenario approach in Erhai Lake Basin, southwest China. **Science of the Total Environment**, 2018, 625: 849.
-- Peng, J., `Hu, Y.`, Liu, Y., Ma, J., Zhao, S. A new approach for urban-rural fringe identification: Integrating impervious surface area and spatial continuous wavelet transform. **Landscape and Urban Planning**, 2018, 175: 72-79.  
+- Han Zhao, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
+- Pengyu Yang, Weihao Cui, Chunyu Xue, Han Zhao, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
+- Weihao Cui, Ji Zhang, Han Zhao, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
+- Weihao Cui, Ziyi Xu, Han Zhao, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
+- Weihao Cui, Yukang Chen, Han Zhao, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)**
+- Chunyu Xue, Weihao Cui, Han Zhao, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
+- Yifu He, Han Zhao, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
+- Shulai Zhang, Quan Chen, Weihao Cui, `Han Zhao`, Chunyu Xue, Zhen Zheng, Wei Lin, Minyi Guo. Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing. **Eurosys2025 (CCF-A)** 
+- Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, Han Zhao, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu. Potamoi: Accelerating neural rendering via a unified streaming architecture. **TACO2024 (CCF-A)**
+- Han Zhao, Junxiao Deng, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **TC2024 (CCF-A)**
+- Han Zhao, Junxiao Deng, Weihao Cui, Deze Zeng, Jing Yang, Minyi Guo. Exploiting all intra-SM parallelism to maximize the throughput while ensuring QoS. **Chinese Science Information Science 2024 (CCF-A)**
+- Chuhao Xu, Yiyu Liu, Zijun Li, Quan Chen, Han Zhao, Deze Zeng, Qian Peng, Xueqi Wu, Haifeng Zhao, Senbo Fu, Minyi Guo. FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture. **In ASPLOS2024 (CCF-A)**
+- Binghao Chen, Han Zhao, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen, Zijun Li, Minyi Guo. Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo. **SoCC2023 (CCF-B)**
+- Han Zhao, Weihao Cui, Quan Chen, Jingwen Leng, Deze Zeng, Minyi Guo. Improving Cluster Utilization Through Adaptive Resource Management for Deep Neural Network and CPU Jobs Colocation. **TC2023 (CCF-A)**
+- Han Zhao, Weihao Cui, Quan Chen, Minyi Guo. ISPA: Exploiting Intra-SM Parallelism in GPUs via Fine-grained Resource Management. **TC2022 (CCF-A)**
+- Weihao Cui, Han Zhao, Quan Chen, Hao Wei, Zirui Li, Deze Zeng, Chao Li, Minyi Guo. DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs. **ATC2022 (CCF-A)**
+- Han Zhao, Weihao Cui, Quan Chen, Youtao Zhang, Yanchao Lu, Chao Li, Jingwen Leng, Minyi Guo. Tacker:Tensor-CUDA Core Kernel Fusion for Improving the GPU Utilization while Ensuring QoS. **HPCA2022 (CCF-A)**
+- Weihao Cui, Han Zhao, Quan Chen, Ningxin Zheng, Jingwen Leng, Jieru Zhao, Zhuo Song, Tao Ma, Yong Yang, Chao Li, Minyi Guo. Enable Simultaneous DNN Services Based on Deterministic Operator Overlap and Precise Latency Prediction. **SC2021 (CCF-A)**
+- Han Zhao, Weihao Cui, Quan Chen, Jieru Zhao, Jingwen Leng, Minyi Guo. Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks. **ICCD2021 (CCF-B)**
+- Weihao Cui, Quan Chen, Han Zhao, Mengze Wei, Xiaoxin Tang, Minyi Guo. E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services. **TPDS2020 (CCF-A)**
+- Han Zhao, Weihao Cui, Quan Chen, Jingwen Leng, Kai Yu, Deze Zeng, Chao Li, Minyi Guo. CODA: Improving Resource Utilization by Slimming and Co-locating DNN and CPU Jobs. **ICDCS2020 (CCF-B)**
+- Han Zhao, Quan Chen, Yuxian Qiu, Ming Wu, Yao Shen, Jingwen Leng, Chao Li, Minyi Guo. Bandwidth and Locality Aware Task-stealing for Manycore Architectures with Bandwidth-Asymmetric Memory. **TACO2019 (CCF-A)**
 
 <span class='anchor' id='-ryjx'></span>
 
