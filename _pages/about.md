@@ -93,7 +93,7 @@ Currently, my research focus on:
 - 2025 **CCF Distinguished Paper** `CCF杰出论文奖`
 - 2025 **MSRA StarTrack Scholar** `微软铸星学者`
 - 2023 **CCF Outstanding Doctoral Dissertation Award in Computer Architecture** `CCF体系结构优博`
-- 2021 **SC2021 Finalist** `SC2021最佳实现提名奖`
+- 2021 **SC2021 Best Reproducibility Advancement** `SC2021最佳实现提名奖`
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -125,8 +125,8 @@ Currently, my research focus on:
 
 # 📚 Courses
 
-- 2023.1 - Now, **Intelligent Computing Systems** `智能计算系统`
-- 2023.1 - Now, **Parallel Computing and Parallel Algorithms** `并行计算与并行算法`
+- 2023.1 - Now, **Intelligent Computing Systems** `《智能计算系统》`
+- 2023.1 - Now, **Parallel Computing and Parallel Algorithms** `《并行计算与并行算法》`
 
 <!-- - 2023.1-至今，**景观与区域生态学**（3学分），本科生课程
 - 2022.1-至今，**地理信息系统原理**（3学分），本科生课程
