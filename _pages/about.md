@@ -58,7 +58,7 @@ Currently, my research focus on:
 
 - \* Denotes the `Corresponding author.`
 - ^ Denotes the `Equal contribution.`
-<!-- - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)**  -->
+- Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Chuhao Xu, Zijun Li, Quan Chen, `Han Zhao`, Minyi Guo. LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference. **(On Arxiv)** 
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
