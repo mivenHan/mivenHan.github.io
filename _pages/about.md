@@ -59,7 +59,7 @@ Currently, my research focus on:
 - \* Denotes the `Corresponding author.`
 - ^ Denotes the `Equal contribution.`
 - Weihao Cui^, Yukang Chen^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)** <span style="color:red; font-weight:bold">[Already merged to SGLang]</span>
-- Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: Harvest Underutilized Resources in LLM Serving with Finetuning Tasks. **(On Arxiv)** 
+- Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms. **(On Arxiv)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
