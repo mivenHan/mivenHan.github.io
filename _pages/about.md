@@ -61,12 +61,12 @@ Currently, my research focus on:
 - Weihao Cui^, Yukang Chen^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo, M. Optimizing SLO-oriented LLM Serving with PD-Multiplexing. **(On Arxiv)** <span style="color:red; font-weight:bold">[Already merged to SGLang]</span>
 - Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms. **(On Arxiv)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
-- Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Wenhao Zhang, Jian Sha, Quan Chen, Bingsheng He, Minyi Guo. Xputimer: Anomaly diagnostics for divergent llm training in gpu clusters of thousand-plus scale. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
 
 ### Published
 
+- Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Jian Sha, Quan Chen, Bo Sang, Bingsheng He, Minyi Guo. Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale. **NSDI2026 (CCF-A)**
 - `Han Zhao^`, Weihao Cui^, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Pu Pang, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. LEGO: Supporting LLM-enhanced Games with One Gaming GPU. **HPCA2026 (CCF-A)** 
 - Chuhao Xu, Zijun Li, Quan Chen, `Han Zhao`, Xueyan Tang, Minyi Guo. Towards Resource-Efficient Serverless LLM Inference with SLINFER. **HPCA2026 (CCF-A)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception . **ATC2025 (CCF-A)** 
