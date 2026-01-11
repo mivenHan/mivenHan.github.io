@@ -20,7 +20,7 @@ redirect_from:
 <!-- 2020年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外>期刊论文50余篇，含1篇Nature旗下期刊论文。 -->
 
 
-I am an assistant professor at <a href="https://www.cs.sjtu.edu.cn/" target="_blank">Computer Science and Engineering Department</a> in <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a>. I received the Master and Ph.D. degrees from Shanghai Jiao Tong University under the supervision of <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://cs.sjtu.edu.cn/~guo-my/" target="_blank">`Prof. Minyi Guo`</a>. For now, I still work closely with <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://raphael-hao.top/" target="_blank">`Assist Prof. Weihao Cui`</a>.
+I am an assistant professor at <a href="https://www.cs.sjtu.edu.cn/" target="_blank">Computer Science and Engineering Department</a> in <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a>. I received the Master and Ph.D. degrees from Shanghai Jiao Tong University under the supervision of <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://cs.sjtu.edu.cn/~guo-my/" target="_blank">`Prof. Minyi Guo`</a>. For now, I still work closely with <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://raphael-hao.top/" target="_blank">`Postdoctoral Fellow Weihao Cui`</a>.
 
 My previous research focused on:
 - Task scheduling across various architectures
@@ -63,6 +63,7 @@ Currently, my research focus on:
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
+- Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling for LLM Applications
 
 ### Published
 
