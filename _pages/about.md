@@ -66,12 +66,12 @@ Currently, my research focus on:
 
 ### Published
 
-- Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:blue; font-weight:bold">[Already merged to SGLang]</span>
+- Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:green; font-weight:bold">[Already merged to SGLang]</span>
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Jian Sha, Quan Chen, Bo Sang, Bingsheng He, Minyi Guo. Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale. **NSDI2026 (CCF-A)**
 - `Han Zhao^`, Weihao Cui^, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Pu Pang, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. LEGO: Supporting LLM-enhanced Games with One Gaming GPU. **HPCA2026 (CCF-A)** 
 - Chuhao Xu, Zijun Li, Quan Chen, `Han Zhao`, Xueyan Tang, Minyi Guo. Towards Resource-Efficient Serverless LLM Inference with SLINFER. **HPCA2026 (CCF-A)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception . **ATC2025 (CCF-A)** 
-- `Han Zhao`, Yiying Xiang, Yu Liu, Xiaochun Ye, Deze Zeng, Jing Yang, Weihao Cui, Quan Chen, Jingwen Leng, Minyi Guo. DACO: Unlocking Latent Dataflow Opportunities in Edge-Side SIMT Accelerators. **APPT2025 (CCF-B)** <span style="color:blue; font-weight:bold">[CCF Distinguished Paper]</span>
+- `Han Zhao`, Yiying Xiang, Yu Liu, Xiaochun Ye, Deze Zeng, Jing Yang, Weihao Cui, Quan Chen, Jingwen Leng, Minyi Guo. DACO: Unlocking Latent Dataflow Opportunities in Edge-Side SIMT Accelerators. **APPT2025 (CCF-B)** <span style="color:green; font-weight:bold">[CCF Distinguished Paper]</span>
 - `Han Zhao`, Weihao Cui, Quan Chen, Zijun Li, Zhenhua Han, Nan Wang, Yu Feng, Jieru Zhao, Chen Chen, Jingwen Leng, Minyi Guo. EDAS: Enabling Fast Data Loading for GPU Serverless Computing. **TACO2025 (CCF-A)** 
 - Pengyu Yang, Weihao Cui, Chunyu Xue, `Han Zhao`, Chen Chen, Quan Chen, Jing Yang, Minyi Guo. Taming Flexible Job Packing in Deep Learning Training Clusters. **TACO2025 (CCF-A)** 
 - Yifu He, `Han Zhao`, Quan Chen, Weihao Cui, Minyi Guo. ARACHNE: Optimizing distributed parallel applications with reduced inter-process communication. **TACO2025 (CCF-A)** 
