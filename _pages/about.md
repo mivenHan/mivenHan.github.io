@@ -61,11 +61,12 @@ Currently, my research focus on:
 - Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms. **(On Arxiv)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
-- Chunyu Xue, Weihao Cui, `Han Zhao`, Quan Chen, Shulai Zhang, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters. **(On Arxiv)**
-- Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling for LLM Applications
+- Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling for LLM Applications. **(On Arxiv)**
+- Yifan Sui, `Han Zhao*`, Rui Ma, Zhiyuan He, Hao Wang, Jianxun Li, Yuqing Yang. Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution. **(On Arxiv)**
 
 ### Published
 
+- Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, `Han Zhao`, Linmei Wang, Yan Li, Limin Xiao, WeiFeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling  and Adaptive Parallelism Co-Design. **EUROSYS2026 (CCF-A)**
 - Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:green; font-weight:bold">[Already merged to SGLang]</span>
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Jian Sha, Quan Chen, Bo Sang, Bingsheng He, Minyi Guo. Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale. **NSDI2026 (CCF-A)**
 - `Han Zhao^`, Weihao Cui^, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Pu Pang, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. LEGO: Supporting LLM-enhanced Games with One Gaming GPU. **HPCA2026 (CCF-A)** 
