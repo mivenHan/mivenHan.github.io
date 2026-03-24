@@ -66,7 +66,7 @@ Currently, my research focus on:
 
 ### Published
 
-- Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, `Han Zhao`, Linmei Wang, Yan Li, Limin Xiao, WeiFeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling  and Adaptive Parallelism Co-Design. **EUROSYS2026 (CCF-A)**
+- Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, `Han Zhao`, Linmei Wang, Yan Li, Limin Xiao, WeiFeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling  and Adaptive Parallelism Co-Design. **Eurosys2026 (CCF-A)**
 - Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:green; font-weight:bold">[Already merged to SGLang]</span>
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Jian Sha, Quan Chen, Bo Sang, Bingsheng He, Minyi Guo. Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale. **NSDI2026 (CCF-A)**
 - `Han Zhao^`, Weihao Cui^, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Pu Pang, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. LEGO: Supporting LLM-enhanced Games with One Gaming GPU. **HPCA2026 (CCF-A)** 
