@@ -63,7 +63,8 @@ Currently, my research focus on:
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling for LLM Applications. **(On Arxiv)**
 - Yifan Sui, `Han Zhao*`, Rui Ma, Zhiyuan He, Hao Wang, Jianxun Li, Yuqing Yang. Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution. **(On Arxiv)**
-- Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, Han Zhao, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving. **(On Arxiv)**
+- Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, `Han Zhao`, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving. **(On Arxiv)**
+- Di Liu, Ruitian Wang, Chen Chen, Mingliang Gong, Yongjie Yuan, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference. **(On Arxiv)**
 
 ### Published
 
