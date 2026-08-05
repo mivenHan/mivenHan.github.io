@@ -66,6 +66,7 @@ Currently, my research focus on:
 
 ### Published
 
+- Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, `Han Zhao*`, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, Yiming Gan, Yu Feng. Deltoris: Enabling Real-time VLA Inference in Embodied Al via Bit-level Sparsity and Speculative Inference. **MICRO2026 (CCF-A)**
 - Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, `Han Zhao`, Linmei Wang, Yan Li, Limin Xiao, WeiFeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling  and Adaptive Parallelism Co-Design. **Eurosys2026 (CCF-A)**
 - Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:green; font-weight:bold">[Already merged to SGLang]</span>
 - Weihao Cui, Ji Zhang, `Han Zhao*`, Chao Liu, Jian Sha, Quan Chen, Bo Sang, Bingsheng He, Minyi Guo. Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale. **NSDI2026 (CCF-A)**
