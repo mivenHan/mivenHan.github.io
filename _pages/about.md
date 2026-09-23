@@ -148,9 +148,9 @@ Currently, my research focus on:
 ### Non-Graduated
 - `I am so glad to work with these outstanding students.💖💖`
 - 2024级博士 邓俊骁
-- 2024级硕士 徐奥，陈煜康
+- 2024级硕士 徐奥、陈煜康
 - 2025级博士 张翔
-- 2025级硕士 王皓冬，张豪
+- 2025级硕士 张豪
 - 2026级硕士 丁明宇、陆学弘
 - 2023级本科生 罗锦彬、范晓泽（ACM班）
 - 2024级本科生 王健豪（ACM班）张成宇（ACM班）周江涛（永强班）
