@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- 2020年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外>期刊论文50余篇，含1篇Nature旗下期刊论文。 -->
-
-
 I am an assistant professor at <a href="https://www.cs.sjtu.edu.cn/" target="_blank">Computer Science and Engineering Department</a> in <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a>. I received the Master and Ph.D. degrees from Shanghai Jiao Tong University under the supervision of <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://cs.sjtu.edu.cn/~guo-my/" target="_blank">`Prof. Minyi Guo`</a>. For now, I still work closely with <a href="https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html" target="_blank">`Prof. Quan Chen`</a> and <a href="https://raphael-hao.top/" target="_blank">`Postdoctor Weihao Cui`</a>.
 
 My previous research focused on:
@@ -34,6 +31,8 @@ Currently, my research focus on:
 - Advanced resource management in datacenters
 
 **I am now looking for perspective Undergraduate Students and Master Students (Enrollment Date: 2027.09 & 2028.09). If you are interested in above areas, we should talk.**
+
+<!-- 2020年在<a href="http://www.ues.pku.edu.cn/old/szdw/qbjs/w/311950.htm" target="_blank">`王仰麟教授`</a>与<a href="http://www.ues.pku.edu.cn/jszy/pj/pjgrjl/47d5081a72b1402693d0ef0eac835be3.htm" target="_blank">`彭建教授`</a>指导下于北京大学获得博士学位，期间曾前往美国两院院士<a href="https://search.asu.edu/profile/1227885" target="_blank">`Billie Turner教授`</a>课题组进行联合培养。现主要从事景观格局与社会-生态过程领域的研究，发表国内外>期刊论文50余篇，含1篇Nature旗下期刊论文。 -->
 
 <span class='anchor' id='-xl'></span>
 
@@ -61,13 +60,14 @@ Currently, my research focus on:
 - Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms. **(On Arxiv)** 
 - Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
-- Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling for LLM Applications. **(On Arxiv)**
 - Yifan Sui, `Han Zhao*`, Rui Ma, Zhiyuan He, Hao Wang, Jianxun Li, Yuqing Yang. Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution. **(On Arxiv)**
 - Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, `Han Zhao`, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving. **(On Arxiv)**
 - Di Liu, Ruitian Wang, Chen Chen, Mingliang Gong, Yongjie Yuan, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference. **(On Arxiv)**
 
 ### Published
 
+- Zeshen Zhang, `Han Zhao*`, Weihao Cui, Quan Chen, Yu Liu, Yongjun Deng, Jing Yang, Jiuchen Shi, Chen Chen, Youmin Chen, Yu Feng, Minyi Guo. From Overloaded to Guaranteed: High-Throughput Multi-SLO Enforcement for LoRA-Assisted On-Premise LLM Deployment. **TACO2026 (CCF-A)**
+- Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling of Task-parallel LLM Agents with Selective Pampering. **NeurIPS2026 (CCF-A)**
 - Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, `Han Zhao*`, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, Yiming Gan, Yu Feng. Deltoris: Enabling Real-time VLA Inference in Embodied Al via Bit-level Sparsity and Speculative Inference. **MICRO2026 (CCF-A)**
 - Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, `Han Zhao`, Linmei Wang, Yan Li, Limin Xiao, WeiFeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling  and Adaptive Parallelism Co-Design. **Eurosys2026 (CCF-A)**
 - Yukang Chen^, Weihao Cui^, `Han Zhao^`, Ziyi Xu, Quan Chen, Xusheng Chen, Yangjie Zhou, Shixuan Sun, Minyi Guo. Towards High-Goodput LLM Serving with Prefill-decode Multiplexing. **ASPLOS2026 (CCF-A)** <span style="color:green; font-weight:bold">[Already merged to SGLang]</span>
