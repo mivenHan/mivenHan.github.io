@@ -58,7 +58,7 @@ Currently, my research focus on:
 - \* Denotes the `Corresponding author.`
 - ^ Denotes the `Equal contribution.`
 - Ao Xu^, `Han Zhao^`, Weihao Cui, Quan Chen, Yukang Chen, Shulai Zhang, Shuang Chen, Jiemin Jiang, Zhibin Yu, Minyi Guo. Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms. **(On Arxiv)** 
-- Shulai Zhang, Ao Xu, Quan Chen, `Han Zhao`, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
+- Ao Xu, Shulai Zhang, `Han Zhao`, Quan Chen, Weihao Cui, Ningxin Zheng, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution. **(On Arxiv)** 
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Yifan Sui, `Han Zhao*`, Rui Ma, Zhiyuan He, Hao Wang, Jianxun Li, Yuqing Yang. Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution. **(On Arxiv)**
 - Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, `Han Zhao`, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving. **(On Arxiv)**
