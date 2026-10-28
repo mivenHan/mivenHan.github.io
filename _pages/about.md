@@ -62,11 +62,11 @@ Currently, my research focus on:
 - Weihao Cui, Ziyi Xu, `Han Zhao`, Quan Chen, Zijun Li, Bingsheng He, Minyi Guo. Efficient Function-as-a-Service for Large Language Models with TIDAL. **(On Arxiv)** 
 - Yifan Sui, `Han Zhao*`, Rui Ma, Zhiyuan He, Hao Wang, Jianxun Li, Yuqing Yang. Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution. **(On Arxiv)**
 - Xiaoze Fan, Jianhao Wang, Weihao Cui, `Han Zhao`, Zhuobin Huang, Yangjie Zhou, Yuxian Qiu, Shixuan Sun, Bingsheng He, Quan Chen, Minyi Guo. Dissecting How Die Scaling Breaks GPU Fine-grained Scheduling. **(On Arxiv)**
-- Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, `Han Zhao`, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. GF-DiT: Scheduling Parallelism for Diffusion Transformer Serving. **(On Arxiv)**
 - Di Liu, Ruitian Wang, Chen Chen, Mingliang Gong, Yongjie Yuan, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference. **(On Arxiv)**
 
 ### Published
 
+- Xinwei Qiang, Yifan Hu, Shixuan Sun, Jing Yang, `Han Zhao*`, Chen Chen, Yu Feng, Jingwen Leng, Minyi Guo. Plectra: Scheduling Parallelism for Diffusion Transformer Serving. **PPOPP2027 (CCF-A)**
 - Zeshen Zhang, `Han Zhao*`, Weihao Cui, Quan Chen, Yu Liu, Yongjun Deng, Jing Yang, Jiuchen Shi, Chen Chen, Youmin Chen, Yu Feng, Minyi Guo. From Overloaded to Guaranteed: High-Throughput Multi-SLO Enforcement for LoRA-Assisted On-Premise LLM Deployment. **TACO2026 (CCF-A)**
 - Mingyan Yang, Guanjie Wang, Manqi Luo, Yifei Liu, Chen Chen, `Han Zhao`, Yu Feng, Quan Chen, Minyi Guo. Justitia: Fair and Efficient Scheduling of Task-parallel LLM Agents with Selective Pampering. **NeurIPS2026 (CCF-A)**
 - Zheng Liu, Zeyu Guo, Zihan Liu, Anbang Wu, `Han Zhao*`, Fangxin Liu, Zhezhi He, Yinhe Han, Jingwen Leng, Minyi Guo, Yiming Gan, Yu Feng. Deltoris: Enabling Real-time VLA Inference in Embodied Al via Bit-level Sparsity and Speculative Inference. **MICRO2026 (CCF-A)**
